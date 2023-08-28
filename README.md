@@ -6,6 +6,7 @@
 ##  **💡 Getting the Idea**
 I found myself often forgetting to order school snacks for next week so I was left with someting like this:
 ![Flavorless food](https://github.com/lin-cadez/Kroky-Plus/blob/main/bad_food.jpg?raw=true)
+
 But I knew i could have something like that:
 ![Delicious food](https://github.com/lin-cadez/Kroky-Plus/blob/main/good_food.png?raw=true)
 
