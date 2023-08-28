@@ -1,6 +1,7 @@
 # 🥕 **Kroky Plus** 
 
-**Kroky Plus** is web app for **automatisation** of weekly school snack ordering from [kroky.si](https://www.kroky.si/2016/?mod=register&action=order)
+<h1>**Kroky Plus** is web app for **automatisation** of weekly school snack ordering from [kroky.si](https://www.kroky.si/2016/?mod=register&action=order)</h1>
+
 ![KrokyPlus](https://github.com/lin-cadez/Kroky-Plus/blob/main/thumbnail.png?raw=true)
 
 ##  **💡 Getting the Idea**
