@@ -1,17 +1,17 @@
 # 🥕 **Kroky Plus**
 
-<h3><strong>Kroky Plus</strong> is web app for <strong>automatisation</strong> of weekly school snack ordering from <a href="https://www.kroky.si/2016/?mod=register&action=order">kroky.si</a></h3>
+<h3><strong>Kroky Plus</strong> is a web app for the <strong>automation</strong> of weekly school snack ordering from <a href="https://www.kroky.si/2016/?mod=register&action=order">kroky.si</a></h3>
 
-![KrokyPlus](https://github.com/lin-cadez/Kroky-Plus/blob/main/thumbnail.png?raw=true)
+![KrokyPlus](images/thumbnail.png)
 
 ## **💡 Getting the Idea**
 
-I found myself often forgetting to order school snacks for next week so I was left with someting like this:
+I found myself often forgetting to order school snacks for next week so I was left with something like this:
 <br>
-![Flavorless food](https://github.com/lin-cadez/Kroky-Plus/blob/main/bad_food.jpg?raw=true)
+![Flavorless food](images/bad_food.jpg)
 <br>
 <br>
-But I knew i could have something like that:
+But I knew I could have something like that:
 <br>
 ![Delicious food](images/good_food.png)
 <br>
@@ -21,12 +21,12 @@ Something had to be done... So here is **Kroky Plus ➕**
 
 1. 📝 **Simple Registration Process**: Begin by registering using the credentials provided by Kroky at your school.
 
-   - These credentials allow the algorithm to access your account and gather data on your past orders. ![Image of Registration](https://github.com/lin-cadez/Kroky-Plus/blob/main/register.png?raw=true)
+   - These credentials allow the algorithm to access your account and gather data on your past orders. ![Image of Registration](images/register.png)
 
 2. 🌟 **Personalized User Area**: Once registered, access your user area to input data that will fine-tune menu recommendations. Share your favorite and least favorite menus, meals, and drinks.
-   ![Image of User Area](https://github.com/lin-cadez/Kroky-Plus/blob/main/user_area1.png?raw=true)
-   ![Image of User Area](https://github.com/lin-cadez/Kroky-Plus/blob/main/user_area2.png?raw=true)
-   ![Image of User Area](https://github.com/lin-cadez/Kroky-Plus/blob/main/user_area3.png?raw=true)
+   ![Image of User Area 1](images/user_area1.png)
+   ![Image of User Area 2](images/user_area2.png)
+   ![Image of User Area 3](images/user_area3.png)
 
 3. 💌 **Weekly Confirmation and Selection**: Each week, you'll receive a confirmation email containing the recommended meals.
 
@@ -73,7 +73,7 @@ The data refinement process unfolds as follows:
     [BAKED, RICE, VEGETABLES]
     ```
 4.  The refined data is compiled into a dictionary stored in the database.
-    ![Database](https://github.com/lin-cadez/Kroky-Plus/blob/main/db.png?raw=true)
+    ![Database](images/db.png)
 
 ## 🎨 **A Focus on User Experience Design**
 
@@ -84,17 +84,17 @@ Our design journey aimed to create a seamless experience for users:
 - This evolved into a more intuitive model with a user-friendly interface (see Final Design image below).
 
 _Early Prototype_:
-![Image of Early Prototype](https://github.com/lin-cadez/Kroky-Plus/blob/main/prot1.png?raw=true)
-![Image of Early Prototype](https://github.com/lin-cadez/Kroky-Plus/blob/main/prot2.png?raw=true)
+![Image of Early Prototype 1](images/prot1.png)
+![Image of Early Prototype 2](images/prot2.png)
 
 _Final Design_:
-![Image of Final Design](https://github.com/lin-cadez/Kroky-Plus/blob/main/final1.png?raw=true)
-![Image of Final Design](https://github.com/lin-cadez/Kroky-Plus/blob/main/final%202.png?raw=true)
+![Image of Final Design 1](images/final1.png)
+![Image of Final Design 2](images/final%202.png)
 
 ## 👥 **Team Collaboration and Roles**
 
-For collaboration, we used GitHub Projects. It's a great application , beacuse it allows you clear and transparent task assignment.
-![project](https://github.com/lin-cadez/Kroky-Plus/blob/main/project.png?raw=true)
+For collaboration, we used GitHub Projects. It's a great application because it allows clear and transparent task assignment.
+![Project](images/project.png)
 
 Our project was a collaboration among three developers:
 
