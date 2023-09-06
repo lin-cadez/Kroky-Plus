@@ -26,7 +26,7 @@ Something had to be done... So here is **Kroky Plus ➕**
 2. 🌟 **Personalized User Area**: Once registered, access your user area to input data that will fine-tune menu recommendations. Share your favorite and least favorite menus, meals, and drinks.
    ![Image of User Area 1](images/user_area1.png)
    ![Image of User Area 2](images/user_area2.png)
-   ![Image of User Area 3](images/user_area3.png)
+   ![Image of User Area 3](images/user-area3.png)
 
 3. 💌 **Weekly Confirmation and Selection**: Each week, you'll receive a confirmation email containing the recommended meals.
 
