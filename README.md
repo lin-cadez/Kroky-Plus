@@ -72,9 +72,7 @@ The data refinement process unfolds as follows:
     ```
     [BAKED, RICE, VEGETABLES]
     ```
-4.  The refined data is compiled into a dictionary stored in the database.
-    ![Database](images/db.png)
-    Password are held secure in other, more secure way on the server. In analystic, we save just the infromations like, the usage of the webpage and the number of users. Then in full-menu we have full menu for programe to chose from. And the last one, ordered-menus, is for you to see which menus you chose.
+4.  The refined data is compiled into a dictionary stored in the database. 
 
 ## 🎨 **A Focus on User Experience Design**
 
